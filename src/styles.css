@@ -1,0 +1,20 @@
+.container {
+  margin: 100px;
+}
+.jumbotron {
+  padding: 50px;
+  text-align: center;
+}
+h1 {
+  color: lightskyblue;
+}
+form label {
+  color: lightseagreen;
+}
+ul {
+  list-style-type: none;
+}
+.results {
+  border: 2px groove palegoldenrod;
+  padding: 20%;
+}
