@@ -3,4 +3,4 @@ This application illustrates the basics of programming with reactjs, from props,
 
 ## Usage 
 1. clone the repo using git or download the zip then npm install/yarn install if you have Nodejs installed and finally checkout the app in your browser at http://localhost:port
-2. OR **[checkout the Live Demo]() 
+2. OR **[checkout the Live Demo](https://ppxp73kjv7.codesandbox.io/)**
