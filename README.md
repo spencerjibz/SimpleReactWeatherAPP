@@ -3,12 +3,13 @@ This application illustrates the basics of programming with **React, from props,
 ## Requirements
 + Nodejs
 + git 
++ cmd, powershell or bash 
 ## Usage 
 1.  **[checkout the Live Demo](https://ppxp73kjv7.codesandbox.io/)**
 
 
 2. OR **Follow the steps below**
-- > clone the repo by running 
+- > clone the repo by running in the cmd 
 ```git clone https://github.com/spencerjibz/SimpleReactWeatherAPP.git```
 
 - >> enter the directory and run 
