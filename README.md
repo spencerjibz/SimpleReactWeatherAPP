@@ -5,7 +5,7 @@ This application illustrates the basics of programming with **React, from props,
 + git 
 + cmd, powershell or bash 
 ## Usage 
-1.  **[checkout the Live Demo](https://ppxp73kjv7.codesandbox.io/)**
+1.  **[checkout the Live Demo](https://0o42mxm2vv.codesandbox.io/)**
 
 
 2. OR **Follow the steps below**
